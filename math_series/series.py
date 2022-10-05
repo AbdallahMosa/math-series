@@ -22,7 +22,7 @@ def lucas(n):
     else :
         return lucas(n - 1) + lucas(n - 2)
 
-
+# sum_series
 def sum_series(n,x=0 ,y=1):
     if type(n)!=int or type(x)!=int  or type(y)!=int:
        return "Sorry,You entered a String"

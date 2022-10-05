@@ -1,7 +1,8 @@
 # LAB - Class 2
 ## Project: Modules and Testing
 ### Author: Abdallah Mosa
-
+ 
+#### [PR](https://github.com/AbdallahMosa/math-series/pull/1)
 #### How to initialize/run your application (where applicable)
 - `python math_series/series.py`
 

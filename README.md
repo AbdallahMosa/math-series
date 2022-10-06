@@ -3,6 +3,7 @@
 ### Author: Abdallah Mosa
  
 #### [PR](https://github.com/AbdallahMosa/math-series/pull/1)
+#### [PR2](https://github.com/AbdallahMosa/math-series/pull/2)
 #### How to initialize/run your application (where applicable)
 - `python math_series/series.py`
 
